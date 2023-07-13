@@ -1,9 +1,12 @@
-import Sidebar from "../Component/Sidebar";
+import Layout from "../Component/Layout";
 
 const Dashboard = () => {
   return (
     <div>
-      <Sidebar/>
+     <Layout>
+      contoh
+      
+     </Layout>
     </div>
   );
 };
